@@ -27,7 +27,7 @@ export default function NavBar () {
   ];
 
   return (
-    <header className="flex justify-center h-24">
+    <header className="flex h-24">
       <nav className="container flex justify-between items-center py-8">
         <div>
           <img className="w-14" src="/images/logoCospe.png" alt="logo" />
